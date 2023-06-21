@@ -1,10 +1,15 @@
 nodes:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - address: 172.31.81.88                # Change with the Private Ip of rancher server
 =======
   - address: 172.31.81.88              # Change with the Private Ip of rancher server
 >>>>>>> feature/msp-23
     internal_address: 172.31.81.88       # Change with the Private Ip of rancher server
+=======
+  - address: 172.31.81.88              # Change with the Private Ip of rancher server
+    internal_address: 172.31.81.88    # Change with the Private Ip of rancher server
+>>>>>>> feature/msp-27
     user: ubuntu
     role:
       - controlplane
